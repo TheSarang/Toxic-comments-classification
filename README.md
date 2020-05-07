@@ -4,7 +4,7 @@ This dataset contains Wikipedia comments which have been labeled by human raters
 
 - toxic
 - severe_toxic
-- obscene
+- obscene 
 - threat
 - insult
 - identity_hate
