@@ -1,6 +1,6 @@
 # Toxic comments classification
 
-This dataset contains Wikipedia comments which have been labeled by human raters for toxic behavior. The types of toxicity are:
+This dataset contains Twitter comments which have been labeled by human raters for toxic behavior. The types of toxicity are:
 
 - toxic
 - severe_toxic
