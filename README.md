@@ -4,7 +4,7 @@ This dataset contains Twitter comments which have been labeled by human raters f
 
 - toxic
 - severe_toxic
-- obscene 
+- obscene
 - threat
 - insult
 - identity_hate
